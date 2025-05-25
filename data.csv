@@ -1,6 +1,6 @@
-Size,Weight,Fruit
-7,150,Apple
-6,140,Apple
-5,130,Apple
-9,180,Orange
-10,200,Orange
+Age,Glucose_Level,Diabetes
+25,85,No
+30,90,No
+45,130,Yes
+50,150,Yes
+35,120,No
